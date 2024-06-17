@@ -1,0 +1,6 @@
+mina 30 20 10 3
+aserradero 20 10 30 2
+fabrica 50 10 40 3
+escuela 20 20 20 2
+obelisco 50 50 50 1
+planta_electrica 30 30 20 4

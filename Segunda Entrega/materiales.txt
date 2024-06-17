@@ -1,0 +1,8 @@
+piedra 80
+aluminio 4
+diamante 2
+metal 95
+oro 43
+madera 115
+plata 60
+almidon 99

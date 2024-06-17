@@ -1,0 +1,3 @@
+mina (3, 0)
+mina (2, 0)
+aserradero (7, 0)

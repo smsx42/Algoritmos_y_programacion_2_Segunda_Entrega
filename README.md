@@ -1,1 +1,2 @@
-# Algoritmos_y_programacion_2_Segunda_Entrega
+# repoTP2
+El trabajo compila con todos los archivos que se encuentren en la carpeta, no pudimos separa el edificio de planta electrica con los que debe leerse como planta_electrica; todos los materiales y edificios se tienen que leer en minuscula, ademas el trabajo fue diseñado para compilarse y ejecutarse en Linux, en otro sistema operativo puede no funcionar por el tema de los emojis, colores y la limpieza de pantalla; en el diagrama de clases hubo un error con una flecha que se encuentra en el medio (parece que se triplico), deberia ser una sola flecha blanca.
