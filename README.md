@@ -1,2 +1,4 @@
-# repoTP2
-El trabajo compila con todos los archivos que se encuentren en la carpeta, no pudimos separa el edificio de planta electrica con los que debe leerse como planta_electrica; todos los materiales y edificios se tienen que leer en minuscula, ademas el trabajo fue diseñado para compilarse y ejecutarse en Linux, en otro sistema operativo puede no funcionar por el tema de los emojis, colores y la limpieza de pantalla; en el diagrama de clases hubo un error con una flecha que se encuentra en el medio (parece que se triplico), deberia ser una sola flecha blanca.
+# Algoritmos_y_Programacion_2_Seduna_Entrega -Linux
+
+En esta entrega se pretender dar un contexto amplio del paradigma de la Programacion Orientada a Objetos (POO), en donde se pretende profundizar aun mas en los TDAS y reemplazando a los structs. Asi mismo, mediante el uso de punteros, se implemento la memoria dinamica para la creacion de listas dinamica, las cuales, habia que implementarlas mediante un TDA para entender su funcionamiento interno.
+La entrega fue realizada de a dos personas, por lo que también se pretendía adquirir experiencia en trabajar en equipo, utilizando a GitHub como herramienta de control de versiones.
